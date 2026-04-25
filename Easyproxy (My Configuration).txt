@@ -1,0 +1,37 @@
+Easyproxy
+||||||||||||||||||||||
+Github (Fork):
+Name: MyTestingSpace
+Description: .
+Url: https://github.com/Duckky927/MyTestingSpace/
+License: Mit
+||||||||||||||||||||||
+Huggingface:
+Name: MyTestingSpace
+Description: .
+Url: https://duckky927-mytestingspace.hf.space/
+Password: 212123
+Port: 7860
+License: Mit
+Visibility: Public
+Readme.md:
+---
+title: MyTestingSpace
+emoji: 🚀
+colorFrom: pink
+colorTo: pink
+sdk: docker
+pinned: false
+license: mit
+short_description: .
+---
+||||||||||||||||||||||
+Render:
+Name: MyTestingSpace
+Description: .
+Url: https://mytestingspace.onrender.com/
+Password: 212123
+Port: 10000
+License: Mit
+Visibility: Public
+||||||||||||||||||||||
