@@ -1,4 +1,4 @@
-Easyproxy
+EasyProxy
 ||||||||||||||||||||||
 Github (Fork):
 Name: MyTestingSpace
